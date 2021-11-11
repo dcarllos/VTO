@@ -1,4 +1,4 @@
-# Curso Variáveis, Tipos de Dados e Operadores Matemáticos em Java (DIO)
+# Curso: Variáveis, Tipos de Dados e Operadores Matemáticos em Java (DIO)
 
 Neste curso, reforcei os conceitos sobre variáveis, tipos de dados de operadores matemáticos em Java, bem como suas boas práticas.
 
