@@ -52,7 +52,7 @@ public class Exercicio02 {
         System.out.println(st3);
         System.out.println(bo1);
         System.out.println(bo2);
-        
+
 
     }
 }
