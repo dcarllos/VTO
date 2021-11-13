@@ -46,5 +46,9 @@ public class Exercicio04 {
         b1 = (byte) d3;
 
         System.out.println("b1: " + b1);
+
+        String string1 = "FULANO";
+        String string2 = "FULANO";
+
     }
 }
