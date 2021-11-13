@@ -11,11 +11,7 @@ public class Exercicio09 {
 
         switch (v){
             case 1:
-                System.out.println("Certo");
-                break;
             case 2:
-                System.out.println("Certo");
-                break;
             case 3:
                 System.out.println("Certo");
                 break;
